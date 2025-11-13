@@ -6,13 +6,15 @@ Le but de cette section est de lister et expliquer l'impact de chaque paramètre
 
 ### Paramètres de base globale
 
-##### **Ration (Nombre de jour usine)**
+##### Ration (Nombre de jour usine)
 
 > Sert de base au calcul de la ration du par un employé, en fonction du nombre total renseigné sur la page de paramétrage des rations. <br/>
 > Par exemple, si
 
-- Règlement automatique
-  > Ce paramètre sert à fixer le comportement par défaut...
+##### :check: Règlement automatique
+
+> Ce paramètre sert à fixer le comportement par défaut...
+
 - Utiliser les lots de reception
 - Seuil fournisseur
 - Sueil client
